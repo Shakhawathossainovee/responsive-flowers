@@ -140,7 +140,7 @@ body {
   background-color: #c54400;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
   .navbar {
     flex-direction: column;
