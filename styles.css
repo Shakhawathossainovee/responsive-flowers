@@ -236,7 +236,7 @@ body {
 .social {
   margin-right: 20px;
 }
-/* Responsive */
+
 @media (max-width: 768px) {
   .info-content {
     flex-direction: column;
